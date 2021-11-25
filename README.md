@@ -1,6 +1,7 @@
 
 
 GRPC: gRPC is a modern open-source high performance Remote Procedure Call (RPC) framework that can run in any environment. 
+In this guide, we are going to build a simple gRPC client and server that take an request and response.
 
 
 Grpc details: For completion of given task, I have chosen the python as a programming language and followed the below steps:
