@@ -47,9 +47,8 @@ ENTRYPOINT ["python", "greeter_server.py"]
 Compose file: To bind our local files to our container files and execute the program. all the program are configure into .yaml file.
 
 This is the command for run .yaml file : docker compose up
-
+![image](https://user-images.githubusercontent.com/46217896/143418041-cf2de516-ae37-477f-905a-086df80f8cb7.png)
  
 Problem: 
 
-The challenges which I have faced during the implementation is keep the track records of configured version into .Txt files. For that I must focused on some more advance research materials.
-![image](https://user-images.githubusercontent.com/46217896/143418041-cf2de516-ae37-477f-905a-086df80f8cb7.png)
+The challenges which I have faced during the implementation is keep the track records of configured version into .Txt files. For that I must focused on some more advance published materials.
