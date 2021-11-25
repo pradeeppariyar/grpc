@@ -48,7 +48,7 @@ Compose file: To bind our local files to our container files and execute the pro
 
 This is the command for run .yaml file : docker compose up
 
-     ![image](https://user-images.githubusercontent.com/46217896/143418041-cf2de516-ae37-477f-905a-086df80f8cb7.png)
+![image](https://user-images.githubusercontent.com/46217896/143418041-cf2de516-ae37-477f-905a-086df80f8cb7.png)
  
 Problem: 
 
